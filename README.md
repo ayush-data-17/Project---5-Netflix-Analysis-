@@ -43,10 +43,10 @@ All the preprocessing and visual analysis were done in the python using **pandas
 **Features:**
 
 **KPI'S:**
-**- Total Titles :** 8802
-**- Total Movies :** 6131
-**- Total Country :** 751
-**- Total Directors :** 4529
+- Total Titles : 8802
+- Total Movies : 6131
+- Total Country : 751
+- Total Directors : 4529
 
 **Charts And Visuals:**
 - Bar Chart : Number of shows by rating (adults and teens are more into netflix content) . 
