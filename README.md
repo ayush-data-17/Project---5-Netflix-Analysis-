@@ -43,17 +43,17 @@ All the preprocessing and visual analysis were done in the python using **pandas
 **Features:**
 
 **KPI'S:**
-- Total Titles : 8802
-- Total Movies : 6131
-- Total Country : 751
-- Total Directors : 4529
+**- Total Titles :** 8802
+**- Total Movies :** 6131
+**- Total Country :** 751
+**- Total Directors :** 4529
 
 **Charts And Visuals:**
-- Bar Chart: Number of shows by rating (adults and teens are more into netflix content) . 
-- Bar Chart: Number of shows by genre (Drama and International TV Shows are most consumed) . 
-- Filled Map: Total number of shows by country (USA , India and UK are the three most content providng nations) . 
-- Doughnut Chart: Number of total shows by Movies v/s TV Shows .
-- Column Chart: Content consumtion among age group . 
+- Bar Chart : Number of shows by rating (adults and teens are more into netflix content) . 
+- Bar Chart : Number of shows by genre (Drama and International TV Shows are most consumed) . 
+- Filled Map : Total number of shows by country (USA , India and UK are the three most content providng nations) . 
+- Doughnut Chart : Number of total shows by Movies v/s TV Shows .
+- Column Chart : Content consumtion among age group . 
 
 ---
 
