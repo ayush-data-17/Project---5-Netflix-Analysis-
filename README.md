@@ -84,20 +84,20 @@ Most content is targeted at **Teens and Adults**, highlighting Netflix’s stron
 
 Based on the analysis here are some recommendation for  company that can help them in the better decision making:
 
- **1.) Strengthn TV Shows Library**
+ **1.) Strengthn TV Shows Library :**
        With movies up 69% of catlog , increase high-quality TV Shows production can boast retntion rate and boinge watching behavior .
 
       
-**2. ) Priotize High-Performing Country**
+**2. ) Priotize High-Performing Country :**
        As USA , India and UK lead the market in most content providing nations in the world , so netflix should deepen investment and partnership in these key market .
        
-**3. ) Expand Top Genre**
+**3. ) Expand Top Genre :**
        Increase invenstment in International TV Shows and Drama as they dominate viewers preference .
        
-**4. ) Optimize Release Stratergy**
+**4. ) Optimize Release Stratergy :**
        Major realease should be concented in the December , July and September to maximize visiblity and viewer engagement .
        
-**5. ) Target Teens and Adults**
+**5. ) Target Teens and Adults :**
        Focus content development on teen and adults aduience who consume the majority of the netflix content . 
        
 
